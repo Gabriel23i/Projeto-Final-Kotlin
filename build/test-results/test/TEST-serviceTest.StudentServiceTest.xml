@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="serviceTest.StudentServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-10T14:29:49" hostname="LAPTOP-G9HI3ANH" time="0.008">
+  <properties/>
+  <testcase name="findStudentTest" classname="serviceTest.StudentServiceTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
